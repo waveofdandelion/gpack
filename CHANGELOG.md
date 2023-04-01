@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file. See [commit
 ## [0.1.1](https://github.com/waveofdandelion/gpack/compare/v0.1.0...v0.1.1) (2023-04-01)
 
 
+### Build
+
+* **fix kit:** kit ([4c92da5](https://github.com/waveofdandelion/gpack/commit/4c92da55d8973dcab6ea337d82013951572d2ede))
+
+
+### Miscellaneous
+
+* **release:** 0.1.1 ([e54849f](https://github.com/waveofdandelion/gpack/commit/e54849f6239acb4813c48ef5b7fd19926f6d7c91))
+
+## [0.1.1](https://github.com/waveofdandelion/gpack/compare/v0.1.0...v0.1.1) (2023-04-01)
+
+
 ### Build System
 
 * **fix kit:** kit ([4c92da5](https://github.com/waveofdandelion/gpack/commit/4c92da55d8973dcab6ea337d82013951572d2ede))
