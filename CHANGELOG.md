@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.16](https://github.com/waveofdandelion/gpack/compare/v0.0.15...v0.0.16) (2023-04-01)
+
+
+### Features
+
+* **add minkus:** add mini cat ([dac4674](https://github.com/waveofdandelion/gpack/commit/dac4674675c8f389ef11ff6aa0aff59f5be11919))
+
+
+### Bug Fixes
+
+* **fix bulka:** add souce ([945526f](https://github.com/waveofdandelion/gpack/commit/945526f7c7728f5ff63fbe9830d6fee855972bc5))
+
+
+### Docs
+
+* **add lerka guide:** lerka kurka w souse ([760b227](https://github.com/waveofdandelion/gpack/commit/760b2276abaea13f5b47c12c60a64cd25218caa3))
+
+
+### CI
+
+* **ci zalupa:** full hot-dog ([de54b51](https://github.com/waveofdandelion/gpack/commit/de54b5196935845f2ec451932f9e1d4874798a00))
+
 ## [0.0.15](https://github.com/waveofdandelion/gpack/compare/v0.0.14...v0.0.15) (2023-04-01)
 
 
