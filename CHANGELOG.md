@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.1](https://github.com/waveofdandelion/gpack/compare/v0.1.0...v0.1.1) (2023-04-01)
+
+
+### Build System
+
+* **fix kit:** kit ([4c92da5](https://github.com/waveofdandelion/gpack/commit/4c92da55d8973dcab6ea337d82013951572d2ede))
+
 ## [0.1.0](https://github.com/waveofdandelion/gpack/compare/v0.0.15...v0.1.0) (2023-04-01)
 
 
