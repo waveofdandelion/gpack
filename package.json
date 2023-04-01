@@ -1,0 +1,36 @@
+{
+  "name": "gpack",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "commit": "cz",
+    "first-release": "commit-and-tag-version --first-release",
+    "minor-release": "npm run release -- --release-as minor",
+    "major-release": "npm run release -- --release-as major",
+    "release": "commit-and-tag-version",
+    "deploy": "git push --follow-tags origin main"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waveofdandelion/gpack.git"
+  },
+  "author": "Wave.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waveofdandelion/gpack/issues"
+  },
+  "homepage": "https://github.com/waveofdandelion/gpack#readme",
+  "dependencies": {
+    "commit-and-tag-version": "^11.2.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3"
+  }
+}
