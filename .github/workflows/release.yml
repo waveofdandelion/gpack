@@ -12,6 +12,7 @@ jobs:
       - uses: fregante/release-with-changelog@v3
         with:
          token: ${{ secrets.GITHUB_TOKEN }}
+         run: gh release create "$GITHUB_REF_NAME"
          exclude: '^Meta'
          commit-template: '- {title} ← {hash}'
          template: |
