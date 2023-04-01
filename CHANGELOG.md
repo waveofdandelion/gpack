@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.10](https://github.com/waveofdandelion/gpack/compare/v0.0.9...v0.0.10) (2023-04-01)
+
+
+### Bug Fixes
+
+* **dd:** ddefef ([fefaedb](https://github.com/waveofdandelion/gpack/commit/fefaedb73c5f444e897fb99fc7b6906c487e2c92))
+
 ## [0.0.9](https://github.com/waveofdandelion/gpack/compare/v0.0.8...v0.0.9) (2023-04-01)
 
 
