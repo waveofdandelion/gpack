@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.14](https://github.com/waveofdandelion/gpack/compare/v0.0.13...v0.0.14) (2023-04-01)
+
+
+### Bug Fixes
+
+* dddddddddddddd ([c7def16](https://github.com/waveofdandelion/gpack/commit/c7def1651b7a771987e171317015a7adfcbe53c0))
+* lera popka ([f3fdb74](https://github.com/waveofdandelion/gpack/commit/f3fdb741efc4544ed81975d36f801837619104bb))
+* lera popka ([98c3d79](https://github.com/waveofdandelion/gpack/commit/98c3d799a57604f60c1a51359d42483d615b9882))
+
 ## [0.0.13](https://github.com/waveofdandelion/gpack/compare/v0.0.12...v0.0.13) (2023-04-01)
 
 
