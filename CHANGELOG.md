@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.6](https://github.com/waveofdandelion/gpack/compare/v0.0.5...v0.0.6) (2023-04-01)
+
+
+### Bug Fixes
+
+* **nakakaf:** nakakaf v leru ([0512bdd](https://github.com/waveofdandelion/gpack/commit/0512bdd237db6b2597cee14d382bada8f80a92be))
+
 ## [0.0.5](https://github.com/waveofdandelion/gpack/compare/v0.0.4...v0.0.5) (2023-04-01)
 
 
