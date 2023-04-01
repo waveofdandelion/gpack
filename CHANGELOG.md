@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.1.2](https://github.com/waveofdandelion/gpack/compare/v0.1.1...v0.1.2) (2023-04-01)
+
+
+### Miscellaneous
+
+* **main:** release 0.1.1 ([ec63772](https://github.com/waveofdandelion/gpack/commit/ec6377239f804aa7e1a30e42f471ca21709a23bb))
+
 ## [0.1.1](https://github.com/waveofdandelion/gpack/compare/v0.1.0...v0.1.1) (2023-04-01)
 
 
