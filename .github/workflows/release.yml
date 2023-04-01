@@ -1,6 +1,6 @@
  - name: Read the changelog
-      id: changelog
-      uses: 3liz/changelog-release@0.2.0
+    id: changelog
+    uses: 3liz/changelog-release@0.2.0
 
     - name: Create release on GitHub
       uses: ncipollo/release-action@v1.10.0
