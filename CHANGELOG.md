@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [0.0.4](https://github.com/waveofdandelion/gpack/compare/v0.0.3...v0.0.4) (2023-04-01)
+
+
+### Bug Fixes
+
+* **bulmen:** lera bulmen kurka ([78ded85](https://github.com/waveofdandelion/gpack/commit/78ded8514af76c7d0cbe8eb055ee715f33d1955d))
+* **ffffffffffffff:** fffff444444444444ddddddddddddd ([51d25f5](https://github.com/waveofdandelion/gpack/commit/51d25f597934da9d6ec6856189f34c6e5b6670c5))
+* **gemz:** fff ([acc1504](https://github.com/waveofdandelion/gpack/commit/acc1504444b7f237e32b79e87eaeb0cad5bc2984))
+
 ## [0.0.3](https://github.com/waveofdandelion/gpack/compare/v0.0.2...v0.0.3) (2023-04-01)
 
 
