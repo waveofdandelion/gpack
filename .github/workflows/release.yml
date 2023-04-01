@@ -1,18 +1,19 @@
 on:
   push:
     branches:
-    - main
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release-please
 
 jobs:
-  release:
+  release-please:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: 16
-    - run: yarn
-    - run: yarn build
-    - uses: plutotcool/release@v1
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node
+          package-name: release-please-action
